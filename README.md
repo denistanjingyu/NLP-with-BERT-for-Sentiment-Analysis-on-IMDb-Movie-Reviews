@@ -6,5 +6,6 @@
 - Implement BERT (Bidirectional Encoder Representations from Transformers) for NLP pre-training using the ktrain library
 
 ## Code and Resources Used
-**Google Colab
+**Notebook:** Google Colab
+
 **Packages:** os, numpy, tensorflow, ktrain
